@@ -4,6 +4,7 @@
 - 💞️ I am currently looking for an internship/job in any domain that contains analytical frameworks.
 - 📫 You may contact me at my personal email foocw4@gmail.com. I will reply you at the latest.
 - ⚡ Fun fact: My hobbies are gaming , watching movies and listening to indie music
+- ✨ This GitHub serves as my portfolio of both my school and personal projects that may perhaps serve your interest.
 
 <!---
 foofooweiwei/foofooweiwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
