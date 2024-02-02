@@ -2,7 +2,7 @@
 - 👀 My Interest Lies within Data Science and Analytics, I love analysing more qualitative aspects of data!
 - 🌱 I’m currently learning Time Series Analysis and Machine Learning Applications
 - 💞️ I am currently looking for an internship/job in any domain that contains analytical frameworks.
-- 📫 You may contact me at my personal email foocw4@gmail.com. I will reply you at the latest.
+- 📫 You may contact me at my personal email foocw4@gmail.com or you may connect me via linkedln
 - ⚡ Fun fact: My hobbies are gaming , watching movies and listening to indie music
 - ✨ This GitHub serves as my portfolio of both my school and personal projects that may perhaps serve your interest to have a look!
 
